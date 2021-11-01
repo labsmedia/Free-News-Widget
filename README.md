@@ -1,1 +1,1 @@
-# Free-News-Widget
+# Newbly-News-Widget
